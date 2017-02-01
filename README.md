@@ -2,4 +2,3 @@
 This is my new console-game project. (former GreatArmyWar)
 
 License: GPLv3
-test
